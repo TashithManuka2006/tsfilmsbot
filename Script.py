@@ -8,7 +8,7 @@ class script(object):
 𝙷𝚎𝚛𝚎 𝚊𝚛𝚎 𝚜𝚘𝚖𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜 𝚢𝚘𝚞 𝚗𝚎𝚎𝚍 𝚝𝚘 𝚔𝚗𝚘𝚠.
 
 ✯ 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝚅𝟹	
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/Sandaruwan_Feedback_Bot">𝚂𝚊𝚑𝚊𝚗𝚂</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/Jonathanlk">ᴶᵒⁿᵃᵗʰᵃⁿ</a>
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚟𝟹.𝟷.𝟷 [ 𝙱𝙴𝚃𝙰 ]
@@ -33,9 +33,9 @@ class script(object):
 𝟸. 𝙱𝚘𝚝 𝚜𝚞𝚙𝚙𝚘𝚛𝚝𝚜 𝚋𝚞𝚝𝚝𝚘𝚗𝚜 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚖𝚎𝚍𝚒𝚊 𝚝𝚢𝚙𝚎. 
 𝟹. 𝙱𝚞𝚝𝚝𝚘𝚗𝚜 𝚜𝚑𝚘𝚞𝚕𝚍 𝚋𝚎 𝚙𝚛𝚘𝚙𝚎𝚛𝚕𝚢 𝚙𝚊𝚛𝚜𝚎𝚍 𝚊𝚜 𝚖𝚊𝚛𝚔𝚍𝚘𝚠𝚗 𝚏𝚘𝚛𝚖𝚊𝚝
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/SECLK)</code>
+<code>[Button Text](buttonurl:https://t.me/SinhalaFlims)</code>
 <b>Alert buttons:</b>
-<code>[Button Text](buttonalert:This is an alert message, You should use @NETFLIXLKBOT to get Movies )</code>"""
+<code>[Button Text](buttonalert:This is an alert message, You should use @CineFlixFinderBot to get Movies )</code>"""
     AUTOFILTER_TXT = """𝙷𝚎𝚕𝚙: <b>Auto Filter</b>
 <b>NOTE:</b>
   𝟷. 𝙼𝚊𝚔𝚎 𝚖𝚎 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗 𝚘𝚏 𝚢𝚘𝚞𝚛 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 𝚒𝚏 𝚒𝚝'𝚜 𝚙𝚛𝚒𝚟𝚊𝚝𝚎. 
@@ -117,5 +117,5 @@ Name - {}
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯    
 • ꜰᴜʟʟ ɴᴀᴍᴇ : 𝚂𝚊𝚑𝚊𝚗 𝚂𝚊𝚗𝚍𝚊𝚛𝚞𝚠𝚊𝚗
-• ᴀʙᴏᴜᴛ : <a href='https://t.me/About_Sandaruwan'>𝙰𝚋𝚘𝚞𝚝 𝚂𝚊𝚗𝚍𝚊𝚛𝚞𝚠𝚊𝚗</a>
-• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Sandaruwan_Feedback_Bot'>𝚂𝚊𝚑𝚊𝚗𝚂</a></b>"""
+• ᴀʙᴏᴜᴛ : <a href='https://t.me/Jonathanlk'>𝙰𝚋𝚘𝚞𝚝 𝙹𝚘𝚗𝚊𝚝𝚑𝚊𝚗</a>
+• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Jonathanlk'>𝙹𝚘𝚗𝚊𝚝𝚑𝚊𝚗</a></b>"""
