@@ -439,13 +439,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🔍 Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('❓ How тo Uѕe', url='https://t.me/SECOfficial_Bot')
+                    InlineKeyboardButton('❓ How тo Uѕe', url='https://t.me/+ocph6I7W7sA4Yjhl')
                 ],[
                     InlineKeyboardButton('❕ Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👁‍🗨 Aʙᴏᴜᴛ', callback_data='about'),
                     InlineKeyboardButton('📞 Coɴтαcт', callback_data="owner_info")
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url='https://t.me/SECL4U')
+                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url='https://t.me/SinhalaFlims')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -473,8 +473,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/SECLK'),
-            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/SECL4U')
+            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/SinhalaFlims '),
+            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/SinhalaFlims ')
         ], [
             InlineKeyboardButton('Hoмe', callback_data='start'),
             InlineKeyboardButton('Cloѕe', callback_data='close_data')
@@ -597,7 +597,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             buttons = [[
                     InlineKeyboardButton('Bαcĸ', callback_data="start"),
-                    InlineKeyboardButton('Coɴтαcт', url="t.me/Sandaruwan_Feedback_Bot")
+                    InlineKeyboardButton('Coɴтαcт', url="t.me/Jonathanlk")
                   ]]
             reply_markup = InlineKeyboardMarkup(buttons)
             await query.message.edit_text(
