@@ -49,7 +49,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('❕ Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👁‍🗨 Aʙᴏᴜᴛ', callback_data='about'),
-                    InlineKeyboardButton('📞 Coɴтαcт Owɴer', callback_data="owner_info")
+                    InlineKeyboardButton('📞 Coɴтαcт', callback_data="owner_info")
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url='https://t.me/SECL4U')
                   ]]
@@ -98,7 +98,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('❕ Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👁‍🗨 Aʙᴏᴜᴛ', callback_data='about'),
-                    InlineKeyboardButton('📞 Coɴтαcт Owɴer', callback_data="owner_info")
+                    InlineKeyboardButton('📞 Coɴтαcт', callback_data="owner_info")
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url='https://t.me/SECL4U')
                   ]]
