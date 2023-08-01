@@ -1,13 +1,16 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+    START_TXT = """𝗛𝗲𝗹𝗹𝗮𝗼𝘄 {},
+𝖨'𝗆 𝖸𝗈𝗎𝗋 𝖥𝗋𝗂𝖾𝗇𝖽𝗅𝗒 𝖭𝖾𝗂𝗀𝗁𝖻𝗈𝗎𝗋 <a href=https://t.me/{}>{}</a>
+
+𝖸𝗈𝗎 𝖢𝖺𝗇 𝖦𝖾𝗍 𝖸𝗈𝗎𝗋 𝖥𝗂𝗅𝗆 𝖠𝗇𝖽 𝖲𝖾𝗋𝗂𝖾𝗌 𝖥𝗂𝗅𝖾𝗌 𝖴𝗌𝗂𝗇𝗀 𝗍𝗁𝗂𝗌 𝖻𝗈𝗍. 𝖠𝖽𝖽 𝖻𝗈𝗍 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉 𝗈𝗋 𝗋𝖾𝗊𝗎𝖾𝗌𝗍 𝗁𝖾𝗋𝖾 😍"""
+    
     HELP_TXT = """ 𝙷𝙴𝚑  {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
 𝙷𝚎𝚛𝚎 𝚊𝚛𝚎 𝚜𝚘𝚖𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜 𝚢𝚘𝚞 𝚗𝚎𝚎𝚍 𝚝𝚘 𝚔𝚗𝚘𝚠.
 
 ✯ 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝚅𝟹	
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/SinhalaCryptoNews">Sinhala Crypto News 𝚂</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/Sandaruwan_Feedback_Bot">SahanS</a>
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚟𝟹.𝟷.𝟷 [ 𝙱𝙴𝚃𝙰 ]
@@ -117,6 +120,6 @@ Loki S01E01 | You S03 | Wednesday S01 720p
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Sinhala Crypto News
-• ᴀʙᴏᴜᴛ : <a href='https://t.me/SinhalaCryptoNews'>Sinhala Crypto News</a>
-• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/SinhalaFilms_LK'>Sinhala Crypto News</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝚂𝚊𝚑𝚊𝚗 𝚂𝚊𝚗𝚍𝚊𝚛𝚞𝚠𝚊𝚗
+• ᴀʙᴏᴜᴛ : <a href='https://t.me/About_Sandaruwan'>𝙰𝚋𝚘𝚞𝚝 𝚂𝚊𝚗𝚍𝚊𝚛𝚞𝚠𝚊𝚗</a>
+• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Sandaruwan_Feedback_Bot'>𝚂𝚊𝚑𝚊𝚗𝚂</a></b>"""
