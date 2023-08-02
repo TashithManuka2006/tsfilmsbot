@@ -439,7 +439,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🔍 Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('❓ How тo Uѕe', url='https://t.me/+ocph6I7W7sA4Yjhl')
+                    InlineKeyboardButton('❓ How тo Uѕe', url='https://t.me/SECOfficial_Bot')
                 ],[
                     InlineKeyboardButton('❕ Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👁‍🗨 Aʙᴏᴜᴛ', callback_data='about'),
